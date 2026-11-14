@@ -5,3 +5,10 @@
 - Keep changes scoped to the current task. Preserve other contributors' code, Markdown, AI use disclosures, and valid outputs.
 - Keep `.ipynb` files valid JSON and avoid unrelated formatting changes. Resolve merge conflicts cell by cell, preserving valid changes from both sides.
 - Before committing, review `git status`, the diff, and `git diff --check`; check remote updates and resolve conflicts. Stage only relevant files. Push only when requested.
+
+## Reference Documentation
+
+- [Quantum mechanics basics](https://quantum.cloud.ibm.com/learning/en/courses/use-a-qc-today/quantum-mechanics-basics)
+- [IBM Quantum Learning](https://quantum.cloud.ibm.com/learning/en)
+- [IBM Quantum documentation guides](https://quantum.cloud.ibm.com/docs/en/guides)
+- [Qiskit Aer documentation](https://qiskit.github.io/qiskit-aer/index.html)
