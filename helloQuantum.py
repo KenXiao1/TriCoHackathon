@@ -6,7 +6,7 @@ qc = QuantumCircuit(2, 2)
 
 # Create an entangled Bell state
 qc.h(0)
-qc.cx(0, 1)
+
 
 # Measure both qubits and store the results in classical bits
 qc.measure([0, 1], [0, 1])
